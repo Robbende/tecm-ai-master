@@ -30,3 +30,7 @@ Act-6.2 - [Metrics for Model Evaluation](./Aprendizaje_Automatico/Actividad-6/Ac
 Act-6.3 - [Decision Tree Classifier](./Aprendizaje_Automatico/Actividad-6/Act-6.3_Act-6.4.ipynb)  
 Act-7.2 - [SVM Kernel Functions](./Aprendizaje_Automatico/Actividad-7/Act-7.2.ipynb)  
 Act-7.4 - [Gaussian Naive Bayes](./Aprendizaje_Automatico/Actividad-7/Act-7.4.ipynb)
+
+##### Other Resources
+
+Fase-1.5 - [Image Compression](./Aprendizaje_Automatico/Fase-1/Fase-1.5.ipynb)
