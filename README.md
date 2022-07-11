@@ -31,6 +31,31 @@ Act-6.3 - [Decision Tree Classifier](./Aprendizaje_Automatico/Actividad-6/Act-6.
 Act-7.2 - [SVM Kernel Functions](./Aprendizaje_Automatico/Actividad-7/Act-7.2.ipynb)  
 Act-7.4 - [Gaussian Naive Bayes](./Aprendizaje_Automatico/Actividad-7/Act-7.4.ipynb)
 
-##### Other Resources
+##### Project & Evidence
 
 Fase-1.5 - [Image Compression](./Aprendizaje_Automatico/Fase-1/Fase-1.5.ipynb)
+
+##### Resources
+
+Res-1 - [Linear_Algebra_numpy](./Aprendizaje_Automatico/Resources/1_Linear_Algebra_numpy.ipynb)  
+Res-2 - [Vectors](./Aprendizaje_Automatico/Resources/2_Vectors.ipynb)  
+Res-3 - [Vector_Projection](./Aprendizaje_Automatico/Resources/3_Vector_Projection.ipynb)  
+Res-4 - [Singular_Value_Decomposition](./Aprendizaje_Automatico/Resources/4_Singular_Value_Decomposition.ipynb)  
+Res-5 - [Matrix_Decomposition](./Aprendizaje_Automatico/Resources/5_Matrix_Decomposition.ipynb)  
+Res-6 - [SVD_Image_Compression](./Aprendizaje_Automatico/Resources/6_SVD_Image_Compression.ipynb)  
+Res-7 - [Derivatives](./Aprendizaje_Automatico/Resources/7_Derivatives.ipynb)  
+Res-8 - [Simple_Neural_Network](./Aprendizaje_Automatico/Resources/8_Simple_Neural_Network.ipynb)  
+Res-9 - [Probability](./Aprendizaje_Automatico/Resources/9_Probability.ipynb)  
+Res-10 - [Normal_Distribution](./Aprendizaje_Automatico/Resources/10_Normal_Distribution.ipynb)  
+Res-11 - [Gradient_Descent](./Aprendizaje_Automatico/Resources/11_Gradient_Descent.ipynb)  
+Res-11 - [Gradient_Descent_2](./Aprendizaje_Automatico/Resources/11_Gradient_Descent_2 .ipynb)  
+Res-12 - [Optimization](./Aprendizaje_Automatico/Resources/12_Optimization.ipynb)  
+Res-13 - [Linear_Regression](./Aprendizaje_Automatico/Resources/13_Linear_Regression.ipynb)  
+Res-14 - [Linear_Regression_SciKitLearn](./Aprendizaje_Automatico/Resources/14_Linear_Regression_SciKitLearn.ipynb)  
+Res-15 - [Linear_Regression_Gradient_Descent](./Aprendizaje_Automatico/Resources/15_Linear_Regression_Gradient_Descent.ipynb)  
+Res-16 - [Logistic_Regression](./Aprendizaje_Automatico/Resources/16_Logistic_Regression.ipynb)  
+Res-17 - [Logistic_Regression_Iris_ds](./Aprendizaje_Automatico/Resources/17_Logistic_Regression_Iris_ds.ipynb)  
+Res-18 - [Decision_Tree_Regression](./Aprendizaje_Automatico/Resources/18_Decision_Tree_Regression.ipynb)  
+Res-19 - [Decision_Tree_Classifier](./Aprendizaje_Automatico/Resources/19_Decision_Tree_Classifier.ipynb)  
+Res-20 - [Support_Vector_Machine_Example](./Aprendizaje_Automatico/Resources/20_Support_Vector_Machine_Example.ipynb)  
+Res-21 - [Naive_Bayes_Example](./Aprendizaje_Automatico/Resources/21_Naive_Bayes_Example.ipynb)
