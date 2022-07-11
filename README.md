@@ -48,7 +48,7 @@ Res-8 - [Simple_Neural_Network](./Aprendizaje_Automatico/Resources/8_Simple_Neur
 Res-9 - [Probability](./Aprendizaje_Automatico/Resources/9_Probability.ipynb)  
 Res-10 - [Normal_Distribution](./Aprendizaje_Automatico/Resources/10_Normal_Distribution.ipynb)  
 Res-11 - [Gradient_Descent](./Aprendizaje_Automatico/Resources/11_Gradient_Descent.ipynb)  
-Res-11 - [Gradient_Descent_2](./Aprendizaje_Automatico/Resources/11_Gradient_Descent_2 .ipynb)  
+Res-11 - [Gradient_Descent_2](./Aprendizaje_Automatico/Resources/11_Gradient_Descent_2.ipynb)  
 Res-12 - [Optimization](./Aprendizaje_Automatico/Resources/12_Optimization.ipynb)  
 Res-13 - [Linear_Regression](./Aprendizaje_Automatico/Resources/13_Linear_Regression.ipynb)  
 Res-14 - [Linear_Regression_SciKitLearn](./Aprendizaje_Automatico/Resources/14_Linear_Regression_SciKitLearn.ipynb)  
