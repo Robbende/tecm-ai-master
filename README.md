@@ -58,4 +58,6 @@ Res-17 - [Logistic_Regression_Iris_ds](./Aprendizaje_Automatico/Resources/17_Log
 Res-18 - [Decision_Tree_Regression](./Aprendizaje_Automatico/Resources/18_Decision_Tree_Regression.ipynb)  
 Res-19 - [Decision_Tree_Classifier](./Aprendizaje_Automatico/Resources/19_Decision_Tree_Classifier.ipynb)  
 Res-20 - [Support_Vector_Machine_Example](./Aprendizaje_Automatico/Resources/20_Support_Vector_Machine_Example.ipynb)  
-Res-21 - [Naive_Bayes_Example](./Aprendizaje_Automatico/Resources/21_Naive_Bayes_Example.ipynb)
+Res-21 - [Naive_Bayes_Example](./Aprendizaje_Automatico/Resources/21_Naive_Bayes_Example.ipynb)  
+Res-22 - [Dynamic_Programming_Example](./Aprendizaje_Automatico/Resources/22_Dynamic_Programming.ipynb)  
+Res-23 - [Genetic_Algorithm_Example](./Aprendizaje_Automatico/Resources/23_Genetic_Algorithm.ipynb)
